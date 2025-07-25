@@ -21,17 +21,6 @@ Thumbs.db
 *.tmp
 *.swp
 
-# Data/model files (customizable)
-*.csv
-*.tsv
-*.xlsx
-*.pkl
-*.joblib
-*.h5
-*.zip
-*.tar.gz
-*.model
-
 # Python packaging
 *.egg-info/
 dist/
