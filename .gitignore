@@ -1,0 +1,41 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual environment (VS Code)
+.vscode/
+env/
+.venv/
+venv/
+
+# OS/Editor files
+.DS_Store
+Thumbs.db
+
+# Log/Temp/Cache
+*.log
+*.tmp
+*.swp
+
+# Data/model files (customizable)
+*.csv
+*.tsv
+*.xlsx
+*.pkl
+*.joblib
+*.h5
+*.zip
+*.tar.gz
+*.model
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# nbconvert and output files
+*.nbconvert.ipynb
